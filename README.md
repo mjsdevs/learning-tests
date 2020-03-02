@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/badge/revisão-1-red" />
   <img src="https://img.shields.io/badge/exemplos-WIP-red" />
 </p>
+
+# TL;DR
+O objetivo desse treinamento é mostrar os principais conceitos relativos a testes de software, trazer alguns casos de estudo e mostrar como uma aplicação em Node pode ser testada utilizando o [Jest](https://jestjs.io/).
