@@ -25,9 +25,9 @@ O desafio será construir, com uso de práticas relacionadas ao BDD, a API de um
 - [ ] Caso tenha enviado uma URL personalizada e a mesma já esteja sendo utilizada, o usuário deve ser informado da impossibilidade de encurtar o link.
 
 Exemplos: 
-- O usuário envia a URL "https://github.com/mjs-community/learning-tests/edit/master/README.md" e recebe algo como `localhost:3000/5a127994a9352fdbf6e045f4bfd80884`
-- O usuário envia a URL "https://github.com/mjs-community/learning-tests/edit/master/README.md" e a string "meu-link" recebe algo como `localhost:3000/meu-link`.
-- O usuario envar outra URL com a mesma string de um link já encurtado e recebe a mensagem "Essa string já está em uso".
+- O usuário envia a URL `https://github.com/mjs-community/learning-tests/edit/master/README.md` e recebe algo como `localhost:3000/5a127994a9352fdbf6e045f4bfd80884`
+- O usuário envia a URL `https://github.com/mjs-community/learning-tests/edit/master/README.md` e a string `"meu-link"` recebe algo como `localhost:3000/meu-link`.
+- O usuario envar outra URL com a mesma string de um link já encurtado e recebe a mensagem `"Essa string já está em uso"`.
 
 > No exemplo, é utilizado `localhost:3000`, mas isso depende do host em que a API estiver deployada, além do domínio.
 
