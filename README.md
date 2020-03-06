@@ -41,3 +41,4 @@ Exemplos:
 - [BDD for your express node-js backend (dev.to)](https://dev.to/teodeleanu/automated-tests-bdd-for-your-express-node-js-backend-4b0d)
 - [Fundamentos do Teste de Software (Backefront)](https://backefront.com.br/fundamentos-teste-software/)
 - [Defeitos, Erros e Falhas (Devmedia)](https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280)
+- [Test Pyramid](https://medium.com/@timothy.cochran/test-pyramid-the-key-to-good-automated-test-strategy-9f3d7e3c02d5)
