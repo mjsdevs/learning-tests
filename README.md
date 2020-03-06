@@ -20,4 +20,5 @@ O objetivo desse treinamento é mostrar os principais conceitos relativos a test
 <em> Em breve </em>
 
 ## Referências
-<em> Em breve </em>
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/)
+- [jestjs](https://jestjs.io/)
