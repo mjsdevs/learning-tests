@@ -22,3 +22,4 @@ O objetivo desse treinamento é mostrar os principais conceitos relativos a test
 ## Referências
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/)
 - [jestjs](https://jestjs.io/)
+- [BDD: Behavior-Driven Development ](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
