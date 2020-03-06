@@ -24,5 +24,5 @@ O objetivo desse treinamento é mostrar os principais conceitos relativos a test
 - [jest.js](https://jestjs.io/)
 - [BDD: Behavior-Driven Development (Wikipedia) ](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
 - [BDD for your express node-js backend (dev.to)](https://dev.to/teodeleanu/automated-tests-bdd-for-your-express-node-js-backend-4b0d)
-- [Fundamentos do Teste de Software (Backefront)](https://backefront.com.br/fundamentos-teste-software/)"
+- [Fundamentos do Teste de Software (Backefront)](https://backefront.com.br/fundamentos-teste-software/)
 - [Defeitos, Erros e Falhas (Devmedia)](https://www.devmedia.com.br/testes-de-software-entendendo-defeitos-erros-e-falhas/22280)
