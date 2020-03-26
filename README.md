@@ -32,7 +32,7 @@ Exemplos:
 > No exemplo, é utilizado `localhost:3000`, mas isso depende do host em que a API estiver deployada, além do domínio.
 
 ## Gists
-<em> Em breve </em>
+[Material adicional](https://gist.github.com/jrmmendes/b12a46f737d7cedabfc8194ca5faf8d9)
 
 ## Referências
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/)
